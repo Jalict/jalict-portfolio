@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tycoon on Frans Peter Larsen</title>
+    <link>https://jalict.com/tags/tycoon/</link>
+    <description>Recent content in Tycoon on Frans Peter Larsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jun 2018 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jalict.com/tags/tycoon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Milkyway Inn</title>
+      <link>https://jalict.com/favourites/milkyway-inn/</link>
+      <pubDate>Sun, 10 Jun 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/favourites/milkyway-inn/</guid>
+      <description>Milkyway Inn, puts you in the role of the manager of an interstellar inn located inside of an asteroid. Visitors from around space will come and visit your station. Your as the manger is to balance the workings of the station and make sure that no visitor leaves dissatisfied.
+The game is a Tycoon/Colonist Manager inspired game. Here your station will be visited and your job is to get all the neccessary objects for the visitors to leave satisfied.</description>
+    </item>
+    
+  </channel>
+</rss>

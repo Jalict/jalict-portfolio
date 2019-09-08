@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		{{ partial "head" . }}
+		
+	</head>
+	<body>
+		<!--- Header ----------------------------------------------->
+		{{ partial "header" . }}
+		<div id="content">
+			<!-- Favourites ---------------------------------------->
+			{{ partial "favourites" . }}
+			<!-- Backlog ------------------------------------------->
+			{{ partial "backlog" . }}
+		</div>
+		<!-- Footer ------------------------------------------------>
+		{{ partial "footer" . }}
+	</body>
+</html>

@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+<title>Minimum Wage</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Frans Peter Larsen">
+<meta name="description" content="Frans Peter Larsen is a Unity and Unreal Engine, Game Developer based in Copenhagen.">
+<link rel="alternate" type="application/atom+xml" title="Frans Portfolio" href="/index.xml">
+
+
+
+
+
+	
+		
+		<meta property="og:image" content="https://jalict.com/projects/minimum-wage/1.gif" />
+		
+		<meta property="og:image" content="https://jalict.com/projects/minimum-wage/2.gif" />
+		
+		<meta property="og:image" content="https://jalict.com/projects/minimum-wage/3.png" />
+		
+		<meta property="og:image" content="https://jalict.com/projects/minimum-wage/4.png" />
+		
+		<meta property="og:image" content="https://jalict.com/projects/minimum-wage/5.png" />
+		
+		<meta property="og:image" content="https://jalict.com/projects/minimum-wage/6.png" />
+		
+		<meta property="og:image" content="https://jalict.com/projects/minimum-wage/7.png" />
+		
+	
+
+<meta property="og:title" content="Minimum Wage" />
+<meta property="og:description" content="For the Game Prototyping course at ITU Games Technology we were given the task to create a game where we split up the different game loops. The requirements were * Single Player * Competitive
+You play as a newly hired employee in a Warehouse. Your job is to unload and sort the crates. So we had those two types of game loops being sorting and unloading. For unloading you have to get crates out of a truck, before the truck departures again." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jalict.com/projects/minimum-wage/" />
+
+<meta property="og:image" content="https://jalict.com/profile.jpg" />
+<meta property="article:published_time" content="2017-10-08T12:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2019-07-28T19:25:00&#43;02:00"/><meta property="og:site_name" content="Frans Peter Larsen Portfolio" />
+
+
+
+
+
+<link rel="stylesheet" href="https://jalict.com/sass/main.min.css">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40519567-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-40519567-6');
+</script>
+	</head>
+
+	<body>
+		
+		<section class="section">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <a href="/">
+            <figure class="image is-square">
+              <img class="is-rounded" src="/profile.jpg">
+            </figure>
+          </a>
+        </div>
+        <div class="column">
+          <div class="content">
+            <p class="subtitle is-5">👋 Hi, my name is <strong>Frans Peter Larsen</strong></p>
+            <p class="subtitle is-5">🕹️ I work on Videogames </p>
+            <p class="subtitle is-5">💡 I love Rapid-Prototying </p>
+            <p class="subtitle is-5">⌨️ My primary field is Programming</p>
+          </div>
+            <nav class="navbar buttons has-addons">
+              <a href="/" class="navbar-item button">
+                <span class="icon">
+                  <i class="fas fa-home"></i>
+                </span>
+                <span>Home</span>
+              </a>
+              <a href="/about/" class="navbar-item button">
+                <span class="icon">
+                  <i class="fas fa-user"></i>
+                </span>
+                <span>About</span>
+              </a>
+              <a href="mailto:larsen.frans@gmail.com" class="navbar-item button">
+                <span class="icon">
+                  <i class="fas fa-envelope-open-text"></i>
+                </span>
+                <span>Email</span>
+              </a>
+              <a href="/cv_franspeterlarsen.pdf" target="_blank" class="navbar-item button">
+                <span class="icon">
+                  <i class="fas fa-university"></i>
+                </span>
+                <span>CV</span>
+              </a>
+            </nav>
+        </div>
+      </div>
+    </div>
+  </section>
+		
+		<section class="section">
+			<div class="container">
+				
+				<h1 class="title">Minimum Wage</h1>
+				<p class="subtitle is-6 has-text-grey">
+					<span class="icon is-small">
+						<i class="fas fa-calendar-alt"></i>
+					</span>
+					<time>October 8, 2017</time>
+				</p>
+				<div class="columns">
+					<div class="column is-three-fifths">
+						
+						<h2 class="subtitle is-5 has-text-weight-semibold">Description</h2>
+						<div class="content">
+							<p>For the Game Prototyping course at ITU Games Technology we were given the task to create a game where we split up the different game loops.
+The requirements were
+* Single Player
+* Competitive</p>
+
+<p>You play as a newly hired employee in a Warehouse. Your job is to unload and sort the crates. So we had those two types of game loops being <strong>sorting</strong> and <strong>unloading</strong>.
+For <em>unloading</em> you have to get crates out of a truck, before the truck departures again.
+For <em>sorting</em> you have to get the crates to the right conveyor belt.</p>
+
+<p>Both loops can be done wrong and punishes the player and rewards when done right, this is done with simple negative/positive scoring system.</p>
+
+<p>Each loop is time dependend so you have to do the taskes in a certain amount of time.</p>
+
+<p>The loop have also been incorporated into the universe, being that you are a worked and have 2 days to learn the whole the job. So on Day 1 you do unloading and on Day 2 you do sorting. Lastly we have Day 3 where both a combined to show the whole full game loop.</p>
+
+<p>The game is controlled using Arrow keys. You pick up crates by pressing Space.</p>
+
+						</div>
+						
+						
+						<h2 class="subtitle is-5 has-text-weight-semibold">Download</h2>
+						<nav class="navbar buttons has-addons">
+							
+							<a href="minimum-wage_windows.zip" class="navbar-item button">
+			                  <span class="icon">
+			                    <i class="fab fa-windows"></i>
+			                  </span>
+			                  <span>Windows</span>
+			                </a>
+			                
+			                
+			                <a href="minimum-wage_macos.zip" class="navbar-item button">
+			                  <span class="icon">
+			                    <i class="fab fa-apple"></i>
+			                  </span>
+			                  <span>MacOS</span>
+			                </a>
+			                
+			                
+			                <a href="minimum-wage_linux.zip" class="navbar-item button">
+			                  <span class="icon">
+			                    <i class="fab fa-linux"></i>
+			                  </span>
+			                  <span>Linux</span>
+			                </a>
+			                
+						</nav>
+						
+					</div>
+					<div class="column">
+						
+						<h2 class="subtitle is-5 has-text-weight-semibold">Media</h2>
+						<div class="container">
+							
+							<div class="columns is-multiline">
+								
+								
+								
+								<div class="column is-half">
+									<figure class="image">
+										<a href="https://jalict.com/projects/minimum-wage/1.gif" target="_blank">
+											<img src="https://jalict.com/projects/minimum-wage/1_hu7f11c3ebd3f70781f4227d28c0ba4baf_506974_256x0_resize_q60_catmullrom.gif" >
+										</a>
+									</figure>
+								</div>	
+								
+								
+								<div class="column is-half">
+									<figure class="image">
+										<a href="https://jalict.com/projects/minimum-wage/2.gif" target="_blank">
+											<img src="https://jalict.com/projects/minimum-wage/2_hu56463b7d1643b683bd3005df7dfadae9_1947018_256x0_resize_q60_catmullrom.gif" >
+										</a>
+									</figure>
+								</div>	
+								
+								
+								<div class="column is-half">
+									<figure class="image">
+										<a href="https://jalict.com/projects/minimum-wage/3.png" target="_blank">
+											<img src="https://jalict.com/projects/minimum-wage/3_huf8458573a287058e17a446349dd3a41e_514717_256x0_resize_q60_catmullrom_2.png" >
+										</a>
+									</figure>
+								</div>	
+								
+								
+								<div class="column is-half">
+									<figure class="image">
+										<a href="https://jalict.com/projects/minimum-wage/4.png" target="_blank">
+											<img src="https://jalict.com/projects/minimum-wage/4_hubc76757de52a7a251a6fbf4a9c25477c_1958842_256x0_resize_q60_catmullrom_2.png" >
+										</a>
+									</figure>
+								</div>	
+								
+								
+								<div class="column is-half">
+									<figure class="image">
+										<a href="https://jalict.com/projects/minimum-wage/5.png" target="_blank">
+											<img src="https://jalict.com/projects/minimum-wage/5_hu28c84f1fbec9c8d46db161d95f840913_1811295_256x0_resize_q60_catmullrom_2.png" >
+										</a>
+									</figure>
+								</div>	
+								
+								
+								<div class="column is-half">
+									<figure class="image">
+										<a href="https://jalict.com/projects/minimum-wage/6.png" target="_blank">
+											<img src="https://jalict.com/projects/minimum-wage/6_hu6e84308441555638bb3414db52e58ca2_1958979_256x0_resize_q60_catmullrom_2.png" >
+										</a>
+									</figure>
+								</div>	
+								
+								
+								<div class="column is-half">
+									<figure class="image">
+										<a href="https://jalict.com/projects/minimum-wage/7.png" target="_blank">
+											<img src="https://jalict.com/projects/minimum-wage/7_huc04e81f51706688fe04be16cbf528125_1240337_256x0_resize_q60_catmullrom_2.png" >
+										</a>
+									</figure>
+								</div>	
+															
+							
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>	
+		</section>
+		
+		<footer class="footer has-background-white">
+	<div class="container">
+		<div class="content has-text-centered">
+			<p>2012-2019 © Frans Peter Larsen</p>
+		</div>
+	</div>
+</footer>
+	</body>
+</html>

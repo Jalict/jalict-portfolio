@@ -1,0 +1,18 @@
+TODO
+====
+
+Big Changes
+-----------
+- Categories backlog into each year.
+- Switch to proper templating
+- Update CV
+- Add bulletpoints instead of flavour text to favourites
+
+Small Changes
+-------------
+- Fix lists not getting properly parsed by Markdownify
+- Switch out Font Awesome with Emojis!
+	- Add Emojis to every damn fixed headline (Check about page!)
+- Fix iOS Safari Video Play for WebM
+- Reduce About me text
+- Only resize images, if their height/width is over 1920px

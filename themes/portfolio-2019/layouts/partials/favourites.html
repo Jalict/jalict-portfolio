@@ -1,0 +1,46 @@
+  <section class="section">
+    <div class="container">
+      <h1 class="title">⭐ Showcase</h1>
+      <p class="subtitle">Project highlights!</p>
+
+      <div class="container">
+
+        {{ range where .Pages.ByDate.Reverse "Section" "favourites" }}
+        <a href="{{ .Permalink }}">
+        <article class="columns">
+          {{ $thumbnail := .Resources.GetMatch "thumbnail*" }}        
+            <div class="column is-one-quarter">
+              {{ if ne $thumbnail nil }}
+              {{ if eq $thumbnail.MediaType.MainType "video"}}
+              <video class="image is-square is-paddingless" autoplay="autoplay" playsinline="" loop="loop" muted="" width=100%> 
+                <source src="{{ $thumbnail.Permalink }}" type="video/mp4"> Your browser does not support the video tag. 
+              </video>
+              {{ else if eq $thumbnail.MediaType.MainType "image"}}
+              <figure class="image is-square">
+                <img src="{{ $thumbnail.Permalink }}">
+              </figure>
+              {{ end }}
+              {{ else }}
+              <figure class="image is-square">
+                <img src="/missing-thumbnail.jpg">
+              </figure>
+              {{ end }}
+            </div>
+            <div class="column">
+                <h2 class="title is-4">{{ .Title }}</h2>
+                {{ with .Params.flavour }}
+                <p class="subtitle">
+                  {{ . }}
+                </p>
+                {{ end }}
+
+            </div>
+          
+        </article>
+        </a>
+        {{ end }}
+
+
+      </div>
+    </div>
+  </section>

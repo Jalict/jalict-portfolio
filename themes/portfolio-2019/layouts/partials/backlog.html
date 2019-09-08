@@ -1,0 +1,37 @@
+<section class="section">
+    <div class="container">
+      <h1 class="title">🗄️ Backlog</h1>
+      <p class="subtitle">Game Jams, Experiments, Hobby, etc.</p>
+      <div class="container">
+        <div class="columns  is-multiline">
+        {{ range where .Pages.ByDate.Reverse "Section" "projects" }}         
+          <article class="column is-one-quarter">
+          	<a href="{{ .Permalink }}"> 
+          	{{ $thumbnail := .Resources.GetMatch "thumbnail*" }}        
+            	{{ if ne $thumbnail nil }}
+              	{{ if eq $thumbnail.MediaType.MainType "video"}}
+              	<video class="image is-square is-paddingless" autoplay="autoplay" playsinline="" loop="loop" muted="" width=100%> 
+              		<source src="{{ $thumbnail.Permalink }}" type="video/mp4"> Your browser does not support the video tag. 
+          		</video>
+              	{{ else if eq $thumbnail.MediaType.MainType "image"}}
+              	<figure class="image is-square">
+                  {{ $resizedImage := $thumbnail.Resize "256x256 q30 CatmullRom" }}
+                	<img src="{{ $resizedImage.Permalink }}">
+              	</figure>
+              	{{ end }}
+              	{{ else }}
+              	<figure class="image is-square">
+                	<img src="/missing-thumbnail.jpg">
+              	</figure>
+                {{ end }}
+                <br>
+              	<h2 class="subtitle has-text-centered has-text-weight-semibold has-text-grey">
+                {{ .Title }}
+              </h2>
+            </a>
+          </article>         
+      	{{ end }}
+        </div>
+      </div>
+    </div>
+  </section>

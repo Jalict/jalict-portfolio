@@ -372,7 +372,7 @@ Made for Ludum Dare 26, Theme: Minimalistic (Potato).</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jalict.com/about/</guid>
-      <description>{{ partial &#34;head&#34; . }}   {{ partial &#34;header&#34; . }} 🖐️ About Me 📖 Resume Game Developer with lots of curiosity for just about everything. I strive to be a Swiss Army Knife for Game Development - But I consider myself mostly General Programmer and Avid Prototyper.
+      <description>{{ partial &#34;head&#34; . }}   {{ partial &#34;header&#34; . }} 🖐️ About Me Game Developer with lots of curiosity for just about everything. I strive to be a Swiss Army Knife for Game Development - But I consider myself mostly General Programmer and Avid Prototyper.
 It is hard for me to define if I am mostly a Developer or Designer, but I do have a passion for making something rough and polishing it to become excellent.</description>
     </item>
     

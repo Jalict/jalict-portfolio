@@ -9,6 +9,6 @@ The goal of the project was to implement and test a state-of-the-art method deve
 
 Much of my work was initial prototyping, conversion of Bang and Lees binaries to libraries and marshalling with Unity, optimisation, gizmos and interface options. 
 
-The project was made supervised by [Mads Johansen Lassen](https://game.itu.dk/members/mads-johansen-lassen/) from IT University and made in collaboration with Unity Technologies with [Dave Hunt](https://www.linkedin.com/in/anatomecha/) as external supervisor.
+The project was supervised by [Mads Johansen Lassen](https://game.itu.dk/members/mads-johansen-lassen/) from IT University and made in collaboration with Unity Technologies with [Dave Hunt](https://www.linkedin.com/in/anatomecha/) as external supervisor.
 
 *[1] Seungbae Bang and Sung-Hee Lee, "Spline Interface for Intuitive Skinning Weight Editing", ACM Transactions on Graphics (TOG), 2018*

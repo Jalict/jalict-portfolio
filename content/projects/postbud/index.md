@@ -4,6 +4,7 @@ macos: postbud_macos.zip
 title: Postbud
 windows: postbud_windows.zip
 date: 2017-04-22 12:00:00
+draft: true
 ---
 
 POSTBUD is about bringing the mail to your friendly neighbourhood.
@@ -15,6 +16,7 @@ I had the idea that you had specific mail to specific places in the world. And i
 Due to me getting into an accident to only worked on it for like 7 hours and then about 2-3 hours with only one hand.
 
 **You play using:**
+
 - WASD to move
 - Mouse to look around
 - Left Mouse button to charge

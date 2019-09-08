@@ -27,6 +27,7 @@ An arrow above each player indicates where their current objective is and what c
 Lastly for the losing condition is whichever player who lost all their fuel first.
 
 The game is played using X360 controllers (Other controllers not tested)
+
 - **Right Trigger** - Accelerate (Forward)
 - **Left Analog** - Steering
 - **Left Trigger** - Accelerate (Backward)

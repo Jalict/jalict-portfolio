@@ -163,8 +163,8 @@ You play as a newly hired employee in a Warehouse. Your job is to unload and sor
       <guid>https://jalict.com/projects/clippy-wars/</guid>
       <description>For the Game Prototyping course at ITU Games Technology we were given the task to create a game which invokes a certain emotion.
 We had several emotions to choose from, our game focuses on confusion and envy
-The requirements were * 2 players * No playtime constraint * Using a console controller * No music (but yes to SFX)
-The game is a platformer where you objective is to hold an object the longest.</description>
+The requirements were
+ 2 players No playtime constraint Using a console controller No music (but yes to SFX)  The game is a platformer where you objective is to hold an object the longest.</description>
     </item>
     
     <item>
@@ -184,8 +184,8 @@ Our game took the classical Arkanoid game and added an extra player to the game,
       
       <guid>https://jalict.com/projects/mazeling/</guid>
       <description>For the Game Prototyping course at ITU Games Technology we were given the task to design a Spectable game.
-The requirements were - Design a Spectable game - Must have a digital component - Either infinite play, or rounds &amp;lt;2 min. - 2 players
-Mazeling is a spectatable shooter game, in which two players compete in a randomly generated maze.
+The requirements were
+ Design a Spectable game Must have a digital component Either infinite play, or rounds &amp;lt;2 min. 2 players  Mazeling is a spectatable shooter game, in which two players compete in a randomly generated maze.
 Game Objective The goal of the game is to kill one another, using rocket launchers (bazooka like).</description>
     </item>
     
@@ -197,18 +197,6 @@ Game Objective The goal of the game is to kill one another, using rocket launche
       <guid>https://jalict.com/projects/tourist-herder/</guid>
       <description>You play as a Tourist guide who are to follow the tourists around town. Show them the big sights the town and make sure they don&amp;rsquo;t get caught up at some place or that they see something displeasing - They are a very tough crowd. But make sure that you get to the bus with as many passengers as possible.
 The game was made for Summer Game Jam 2017 (Local Game Jam which I host) with the theme &amp;lsquo;One City Block&amp;rsquo;</description>
-    </item>
-    
-    <item>
-      <title>Postbud</title>
-      <link>https://jalict.com/projects/postbud/</link>
-      <pubDate>Sat, 22 Apr 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://jalict.com/projects/postbud/</guid>
-      <description>POSTBUD is about bringing the mail to your friendly neighbourhood.
-The world is “infinity” as in you can proceed to the end of the world and come out of the start.
-I had the idea that you had specific mail to specific places in the world. And it was your job to find these places in time before they got angry.
-Due to me getting into an accident to only worked on it for like 7 hours and then about 2-3 hours with only one hand.</description>
     </item>
     
     <item>
@@ -342,7 +330,8 @@ The motivation was to have easier methods for creating game worlds for artists w
       <guid>https://jalict.com/projects/knights/</guid>
       <description>You’re knights who fight at the bottom of a volcano. Now the time is running out and the vulcano is collapsing and the platforms moving around. Quickly kill your opponents while avoiding the magma!
 Made for Mini Jam 5 by Unge Spiludviklere, Theme: Procedural Generated.
-Controls are the following: - Left Analog Stick – Movement - Button A – Attacking / Join Game - Button B – Blocking - Button X – Jumping - Start – Start Game</description>
+Controls are the following:
+ Left Analog Stick – Movement Button A – Attacking / Join Game Button B – Blocking Button X – Jumping Start – Start Game  The game was made together with Rasmus Dyhr</description>
     </item>
     
     <item>

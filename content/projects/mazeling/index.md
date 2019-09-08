@@ -10,6 +10,7 @@ date: 2017-09-10 12:00:00
 For the Game Prototyping course at ITU Games Technology we were given the task to design a Spectable game.
 
 The requirements were
+
 - Design a Spectable game
 - Must have a digital component
 - Either infinite play, or rounds <2 min.
@@ -36,6 +37,7 @@ Later on we added destructable walls in order for to make it faster to find one 
 
 **Controls**
 The game is played using 
+
 - WASD + Left Ctrl for Left Player (Red) and 
 - Arrow keys + Right Ctrl for Right Player (Blue). 
 

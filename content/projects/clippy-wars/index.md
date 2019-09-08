@@ -11,6 +11,7 @@ For the Game Prototyping course at ITU Games Technology we were given the task t
 We had several emotions to choose from, our game focuses on *confusion* and *envy*
 
 The requirements were
+
 * 2 players
 * No playtime constraint
 * Using a console controller
@@ -21,6 +22,7 @@ The game is a platformer where you objective is to hold an object the longest. T
 The game is based on Windows 98 aesthetics, the players play as Clippy and Evil Clippy and both have to obtain the Cursor in order to win. The windows act as Platforms, so you can jump on top of the Windows in order to get higher.
 
 The game is played using XBOX 360 controller.
+
 * Left Analog for Movement.
 * A Button for Jumping
 * B Button for Melee attack (To make other players drop the pointer)

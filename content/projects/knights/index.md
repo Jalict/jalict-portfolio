@@ -9,6 +9,7 @@ You’re knights who fight at the bottom of a volcano. Now the time is running o
 Made for Mini Jam 5 by Unge Spiludviklere, Theme: Procedural Generated. 
 
 Controls are the following:
+
 - Left Analog Stick – Movement
 - Button A – Attacking / Join Game
 - Button B – Blocking

@@ -6,10 +6,20 @@
     <description>Recent content on Frans Peter Larsen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jan 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jalict.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spline-based interface</title>
+      <link>https://jalict.com/projects/spline-based-interface/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/spline-based-interface/</guid>
+      <description>For my thesis on MSc. Games Technology I worked together with Sven Santema on implementing a spline-based interface for skin weight editing inside the Unity Engine.
+The goal of the project was to implement and test a state-of-the-art method developed by Bang and Lee[1] to identify user experience and usability within the implementation inside Unity. A prototype was implemented which works for real-time editing where users can create skinning from the ground up.</description>
+    </item>
     
     <item>
       <title>A Fisherman&#39;s Tale</title>
@@ -362,7 +372,7 @@ Made for Ludum Dare 26, Theme: Minimalistic (Potato).</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jalict.com/about/</guid>
-      <description>{{ partial &#34;head&#34; . }}   {{ partial &#34;header&#34; . }} About Me Resume Game Developer with lots of curiosity for just about everything. I strive to be a Swiss Army Knife for Game Development - But I consider myself mostly General Programmer and Avid Prototyper.
+      <description>{{ partial &#34;head&#34; . }}   {{ partial &#34;header&#34; . }} 🖐️ About Me 📖 Resume Game Developer with lots of curiosity for just about everything. I strive to be a Swiss Army Knife for Game Development - But I consider myself mostly General Programmer and Avid Prototyper.
 It is hard for me to define if I am mostly a Developer or Designer, but I do have a passion for making something rough and polishing it to become excellent.</description>
     </item>
     

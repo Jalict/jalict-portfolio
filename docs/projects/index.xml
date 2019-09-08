@@ -6,10 +6,20 @@
     <description>Recent content in Projects on Frans Peter Larsen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jan 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jalict.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spline-based interface</title>
+      <link>https://jalict.com/projects/spline-based-interface/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/spline-based-interface/</guid>
+      <description>For my thesis on MSc. Games Technology I worked together with Sven Santema on implementing a spline-based interface for skin weight editing inside the Unity Engine.
+The goal of the project was to implement and test a state-of-the-art method developed by Bang and Lee[1] to identify user experience and usability within the implementation inside Unity. A prototype was implemented which works for real-time editing where users can create skinning from the ground up.</description>
+    </item>
     
     <item>
       <title>A Fisherman&#39;s Tale</title>

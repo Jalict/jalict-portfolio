@@ -14,26 +14,7 @@ I did a lot of optimisation later in the project together with lighting.
 I learned a lot about making multiplayer games, virtual reality development and how to structure big projects with medium-sized team.
 And I would consider it to be one of the most valuable projects I had during my bachelor as I got to work with an excellent team and on a project we all had a lot of passion for.
 
-The game used Oculus Development Kit 2 and [DarkRift](https://darkriftnetworking.com/) as multiplayer framework. 
+The game used Oculus Development Kit 2 and [DarkRift](https://darkriftnetworking.com/) as multiplayer framework. We also got to implement and work with Wwise and Binarual Sound developed by 3DCeption.
 
 Other students who participated in the project:
-
-* [Emil Holmen](http://emilholmen.com)
-* [Kasper Lichtenberg](http://kasperhdl.dk/)
-* Nicklas Bundgaard
-* [Itai Yavin](http://iyavin.one/)
-* [Alex Rymark Vorm](https://soundcloud.com/alex-vorm)
-* Jacob Hagerup Godt
-* Andreas Ryge
-* Hans Emil Hoppe Rauer
-* Maja Daniela Hansen
-* Hans Hansen
-* Casper Mikkel Nymose
-* Sam Kormind
-* Mikkel Skovsmose Tewes
-* Vicky Poulsen
-* Jacob Vilandt
-* Hans Jonathan Hummelgaard
-* Simon Ingemann
-* [Jonas Hingeberg Ruge](http://www.jovh.dk/)
-* [Nicolai Foldager](https://www.nicfol.com/)
+[Emil Holmen](http://emilholmen.com), [Kasper Lichtenberg](http://kasperhdl.dk/), Nicklas Bundgaard, [Itai Yavin](http://iyavin.one/), [Alex Rymark Vorm](https://soundcloud.com/alex-vorm), Jacob Hagerup Godt, Andreas Ryge, Hans Emil Hoppe Rauer, Maja Daniela Hansen, Hans Hansen, Casper Mikkel Nymose, Sam Kormind, Mikkel Skovsmose Tewes, Vicky Poulsen, Jacob Vilandt, Hans Jonathan Hummelgaard, Simon Ingemann, [Jonas Hingeberg Ruge](http://www.jovh.dk/), [Nicolai Foldager](https://www.nicfol.com/)

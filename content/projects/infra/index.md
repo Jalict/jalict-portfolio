@@ -17,6 +17,7 @@ And I would consider it to be one of the most valuable projects I had during my 
 The game used Oculus Development Kit 2 and [DarkRift](https://darkriftnetworking.com/) as multiplayer framework. 
 
 Other students who participated in the project:
+
 * [Emil Holmen](http://emilholmen.com)
 * [Kasper Lichtenberg](http://kasperhdl.dk/)
 * Nicklas Bundgaard

@@ -5,7 +5,7 @@
 
       <div class="container">
 
-        {{ range where .Pages.ByDate.Reverse "Section" "favourites" }}
+        {{ range where .Site.RegularPages.ByDate.Reverse "Section" "favourites" }}
         <a href="{{ .Permalink }}">
         <article class="columns">
           {{ $thumbnail := .Resources.GetMatch "thumbnail*" }}        

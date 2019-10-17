@@ -34,6 +34,18 @@ Game was made together with Andy Touch, Sven Santema, Rareş Popa and Nikolaj Li
     </item>
     
     <item>
+      <title>First Class Trouble</title>
+      <link>https://jalict.com/favourites/first-class-trouble/</link>
+      <pubDate>Wed, 28 Nov 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/favourites/first-class-trouble/</guid>
+      <description>From August to November in 2018 I had the pleasure of doing an Internship at Invisible Walls, where I got to work on First Class Trouble.
+I worked as Gameplay Programmer in Unreal Engine and got to implement core systems, mechanics and user interfaces. All the features were also developed for online multiplayer by me.
+Most of my work involved:
+ Zone-based Oxygen System Multi-purpose Door System Collectable Passenger Logs Implementation of new User Interface  All my work was done i close collaboration with the team, I had a lot of freedom to come up with my own ideas and prototype them for the team.</description>
+    </item>
+    
+    <item>
       <title>Pizza Panic</title>
       <link>https://jalict.com/favourites/pizza-panic/</link>
       <pubDate>Tue, 27 Nov 2018 12:00:00 +0000</pubDate>
@@ -74,10 +86,10 @@ The game is a Tycoon/Colonist Manager inspired game. Here your station will be v
     
     <item>
       <title>Down the Road</title>
-      <link>https://jalict.com/favourites/down-the-road/</link>
+      <link>https://jalict.com/projects/down-the-road/</link>
       <pubDate>Sun, 15 Apr 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://jalict.com/favourites/down-the-road/</guid>
+      <guid>https://jalict.com/projects/down-the-road/</guid>
       <description>You find yourself in the middle of a forrest. It is night, you driving your car, going to the Local Radio Tower as you heard some weird broadcast messages lately. You only have the old map and the limited vision to guide you through the dark forrest. Hopefully the roads are safe tonight.
 This game was made in 48 hours for Nordic Game Jam 2018 together with Kasper Lichtenberg. For this project I worked primarily on Assets (2D, 3D and a bit Audio) and Level Design.</description>
     </item>

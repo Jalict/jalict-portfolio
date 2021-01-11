@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://jalict.com/</loc>
-    <lastmod>2019-10-17T22:36:34+02:00</lastmod>
+    <lastmod>2019-11-19T18:07:15+01:00</lastmod>
   </url>
   
   <url>
@@ -24,12 +24,12 @@
   
   <url>
     <loc>https://jalict.com/favourites/</loc>
-    <lastmod>2019-10-17T22:36:34+02:00</lastmod>
+    <lastmod>2019-11-19T18:07:15+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://jalict.com/favourites/first-class-trouble/</loc>
-    <lastmod>2019-10-17T22:36:34+02:00</lastmod>
+    <lastmod>2019-11-19T18:07:15+01:00</lastmod>
   </url>
   
   <url>
@@ -75,6 +75,11 @@
   <url>
     <loc>https://jalict.com/tags/unity/</loc>
     <lastmod>2019-10-17T22:36:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jalict.com/projects/bottleball/</loc>
+    <lastmod>2019-09-08T12:38:53+02:00</lastmod>
   </url>
   
   <url>
@@ -148,6 +153,11 @@
   </url>
   
   <url>
+    <loc>https://jalict.com/projects/busdriver/</loc>
+    <lastmod>2019-09-08T12:38:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jalict.com/projects/minimum-wage/</loc>
     <lastmod>2019-09-08T12:38:53+02:00</lastmod>
   </url>
@@ -170,6 +180,11 @@
   <url>
     <loc>https://jalict.com/projects/tourist-herder/</loc>
     <lastmod>2019-09-08T12:38:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jalict.com/projects/postbud/</loc>
+    <lastmod>2019-09-08T18:27:52+02:00</lastmod>
   </url>
   
   <url>
@@ -228,6 +243,11 @@
   </url>
   
   <url>
+    <loc>https://jalict.com/projects/fourth-semester/</loc>
+    <lastmod>2019-09-08T12:38:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jalict.com/projects/third-semester/</loc>
     <lastmod>2019-09-08T12:38:53+02:00</lastmod>
   </url>
@@ -245,11 +265,6 @@
   <url>
     <loc>https://jalict.com/projects/cutato/</loc>
     <lastmod>2019-09-08T12:38:53+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jalict.com/about/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

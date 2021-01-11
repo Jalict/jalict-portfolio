@@ -6,11 +6,7 @@
     <description>Recent content on Frans Peter Larsen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jalict.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jalict.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spline-based interface</title>
       <link>https://jalict.com/projects/spline-based-interface/</link>
@@ -51,8 +47,19 @@ Most of my work involved:
       <pubDate>Tue, 27 Nov 2018 12:00:00 +0000</pubDate>
       
       <guid>https://jalict.com/favourites/pizza-panic/</guid>
-      <description>For our 8th Prototype for our Game Prototype course at ITU Games Technology we were given the assignemnt of creating a Local Multiplayer game with some type of Exchanging. Exact requirements: - Digital or analog - It has to have an economy (resources exchanged among players) - Gameplay condition: the game has one loser
-The game is about getting pizzas delivered before you run out of fuel. As you deliver pizza&amp;rsquo;s you get some of your fuel back.</description>
+      <description>For our 8th Prototype for our Game Prototype course at ITU Games Technology we were given the assignemnt of creating a Local Multiplayer game with some type of Exchanging. Exact requirements:
+ Digital or analog It has to have an economy (resources exchanged among players) Gameplay condition: the game has one loser  The game is about getting pizzas delivered before you run out of fuel. As you deliver pizza&amp;rsquo;s you get some of your fuel back.</description>
+    </item>
+    
+    <item>
+      <title>Bottleball</title>
+      <link>https://jalict.com/projects/bottleball/</link>
+      <pubDate>Sun, 02 Sep 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/bottleball/</guid>
+      <description>For the Game Prototyping course at ITU Games Technology we were given the task to design a Sport.
+The requirements were
+ Design a Sport (analog) Teams of no more than 3 people It has to use props (ball, sticks, &amp;hellip;) Round duration: 10 minutes (can have multiple rounds)  The primary concept of the sport revolves around the idea of each of the two teams having a waterbottle that the opposite team must tip over.</description>
     </item>
     
     <item>
@@ -158,13 +165,23 @@ It uses an Arduino Nano, 3x4 keypad, 9V battery, two piezo speakers for tones, a
     </item>
     
     <item>
+      <title>BusDriver</title>
+      <link>https://jalict.com/projects/busdriver/</link>
+      <pubDate>Sun, 22 Oct 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/busdriver/</guid>
+      <description>For the Game Prototyping course at ITU Games Technology we were given the task to create a game one button game. The requirements were
+ Input with 1 button Max playtime, 5 minutes Combos allowed (Account repetition)  Our group went with a infinite runner like game. You drive a bus where you have to do different actions (Using a single button) on the thing you are about to encounter.</description>
+    </item>
+    
+    <item>
       <title>Minimum Wage</title>
       <link>https://jalict.com/projects/minimum-wage/</link>
       <pubDate>Sun, 08 Oct 2017 12:00:00 +0000</pubDate>
       
       <guid>https://jalict.com/projects/minimum-wage/</guid>
-      <description>For the Game Prototyping course at ITU Games Technology we were given the task to create a game where we split up the different game loops. The requirements were * Single Player * Competitive
-You play as a newly hired employee in a Warehouse. Your job is to unload and sort the crates. So we had those two types of game loops being sorting and unloading. For unloading you have to get crates out of a truck, before the truck departures again.</description>
+      <description>For the Game Prototyping course at ITU Games Technology we were given the task to create a game where we split up the different game loops. The requirements were
+ Single Player Competitive  You play as a newly hired employee in a Warehouse. Your job is to unload and sort the crates. So we had those two types of game loops being sorting and unloading. For unloading you have to get crates out of a truck, before the truck departures again.</description>
     </item>
     
     <item>
@@ -212,6 +229,18 @@ The game was made for Summer Game Jam 2017 (Local Game Jam which I host) with th
     </item>
     
     <item>
+      <title>Postbud</title>
+      <link>https://jalict.com/projects/postbud/</link>
+      <pubDate>Sat, 22 Apr 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/postbud/</guid>
+      <description>POSTBUD is about bringing the mail to your friendly neighbourhood.
+The world is “infinity” as in you can proceed to the end of the world and come out of the start.
+I had the idea that you had specific mail to specific places in the world. And it was your job to find these places in time before they got angry.
+Due to me getting into an accident to only worked on it for like 7 hours and then about 2-3 hours with only one hand.</description>
+    </item>
+    
+    <item>
       <title>Bit Tunes</title>
       <link>https://jalict.com/projects/bit-tunes/</link>
       <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
@@ -236,7 +265,7 @@ The device is using an Arduino, two potentiometers for input and a piezo speaker
       <pubDate>Sun, 24 Jul 2016 12:00:00 +0000</pubDate>
       
       <guid>https://jalict.com/projects/floats-n-boats/</guid>
-      <description>Floats n&amp;rsquo; Boats is a party game, where 2 teams have to compete against each other. Both teams consists of 2 players; one controlling a boat and another controlling a harpoon. The player controlling the boat moves the team around, while the player with the harpoon has to cut the other teams rope. If a teams rope is cut they have to merge again, as the other team will win if they shoot or run over the harpoon player.</description>
+      <description>Floats n&#39; Boats is a party game, where 2 teams have to compete against each other. Both teams consists of 2 players; one controlling a boat and another controlling a harpoon. The player controlling the boat moves the team around, while the player with the harpoon has to cut the other teams rope. If a teams rope is cut they have to merge again, as the other team will win if they shoot or run over the harpoon player.</description>
     </item>
     
     <item>
@@ -325,6 +354,17 @@ The game is a Local Multiplayer, Fighting platformer. You only have one weapon w
     </item>
     
     <item>
+      <title>HRTF in darkness</title>
+      <link>https://jalict.com/projects/fourth-semester/</link>
+      <pubDate>Thu, 15 Jan 2015 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/fourth-semester/</guid>
+      <description>For my fouth semester at my bachelor program I had the chance of working on a Virtual Reality with focus on researching navigation using sound in limit visual environments.
+Most of my work was done in implementing and adapting Binaural sound systems. And working on recording real-time data of the test participants.
+The project was made togehter with Emil Holmen, Nicklas Bundgaard, Andreas Ryge, Hans Emil Hoppe Rauer, Rasmus Bons, Alex Rymark Vorm</description>
+    </item>
+    
+    <item>
       <title>3rd Semester Project</title>
       <link>https://jalict.com/projects/third-semester/</link>
       <pubDate>Mon, 03 Nov 2014 12:00:00 +0000</pubDate>
@@ -365,16 +405,6 @@ The game was made together with Rasmus Dyhr, Mathias Berthelsen and Gustav Dahl<
       <guid>https://jalict.com/projects/cutato/</guid>
       <description>You’re working at Cutato Factory. Your Job is to peel all the incoming potatoes. As time goes, conveyor will go faster! Try to peel as much from the potatoes as possible for best score.
 Made for Ludum Dare 26, Theme: Minimalistic (Potato).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jalict.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jalict.com/about/</guid>
-      <description>{{ partial &#34;head&#34; . }}   {{ partial &#34;header&#34; . }} 🖐️ About Me Game Developer with lots of curiosity for just about everything. I strive to be a Swiss Army Knife for Game Development - But I consider myself mostly General Programmer and Avid Prototyper.
-It is hard for me to define if I am mostly a Developer or Designer, but I do have a passion for making something rough and polishing it to become excellent.</description>
     </item>
     
     <item>

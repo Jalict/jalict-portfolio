@@ -1,7 +1,6 @@
 baseURL = "https://jalict.com"
 languageCode = "en-us"
 title = "Frans Peter Larsen"
-theme = "portfolio-2019"
 enableEmoji = true
 enableGitInfo = true
 googleAnalytics = "UA-40519567-6"

@@ -1,7 +1,7 @@
 ---
 title: First Class Trouble
 date: 2018-11-28 12:00:00
-youtube: "a24-WrOWwfs"
+youtube: "lln6WR9O1Yo"
 flavour: "From August to November in 2018 I had the pleasure of doing an Internship at Invisible Walls, where I got to work on First Class Trouble. I worked as Gameplay Programmer in Unreal Engine and got to implement core systems, mechanics and user interfaces."
 ---
 

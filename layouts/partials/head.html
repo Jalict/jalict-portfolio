@@ -1,4 +1,4 @@
-<!-- General Meta (Legacy?) -->
+﻿<!-- General Meta (Legacy?) -->
 <title>{{ .Title }}</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,22 +12,22 @@
 {{ end }}
 
 {{ if .IsHome }}
-	{{ range where .Pages.ByDate.Reverse "Section" "favourites" }}
-		{{ $thumbnail := .Resources.GetMatch "thumbnail*" }} 
-		{{ if ne $thumbnail nil }}
-			{{ if eq $thumbnail.MediaType.MainType "video"}}
-			<meta property="og:video" content="{{ $thumbnail.Permalink }}">
-			{{ else if eq $thumbnail.MediaType.MainType "image"}}
-			<meta property="og:image" content="{{ $thumbnail.Permalink }}" />
-			{{ end }}
-		{{ end }}
-	{{ end }}
+{{ range where .Pages.ByDate.Reverse "Section" "favourites" }}
+{{ $thumbnail := .Resources.GetMatch "thumbnail*" }}
+{{ if ne $thumbnail nil }}
+{{ if eq $thumbnail.MediaType.MainType "video"}}
+<meta property="og:video" content="{{ $thumbnail.Permalink }}">
+{{ else if eq $thumbnail.MediaType.MainType "image"}}
+<meta property="og:image" content="{{ $thumbnail.Permalink }}" />
+{{ end }}
+{{ end }}
+{{ end }}
 {{ else }}
-	{{ with .Resources.ByType "image" }}
-		{{ range . }}
-		<meta property="og:image" content="{{ .Permalink }}" />
-		{{ end }}
-	{{ end }}
+{{ with .Resources.ByType "image" }}
+{{ range . }}
+<meta property="og:image" content="{{ .Permalink }}" />
+{{ end }}
+{{ end }}
 {{ end }}
 {{ template "_internal/opengraph.html" . }}
 

@@ -52,17 +52,6 @@ Most of my work involved:
     </item>
     
     <item>
-      <title>Bottleball</title>
-      <link>https://jalict.com/projects/bottleball/</link>
-      <pubDate>Sun, 02 Sep 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://jalict.com/projects/bottleball/</guid>
-      <description>For the Game Prototyping course at ITU Games Technology we were given the task to design a Sport.
-The requirements were
- Design a Sport (analog) Teams of no more than 3 people It has to use props (ball, sticks, &amp;hellip;) Round duration: 10 minutes (can have multiple rounds)  The primary concept of the sport revolves around the idea of each of the two teams having a waterbottle that the opposite team must tip over.</description>
-    </item>
-    
-    <item>
       <title>Car Herder</title>
       <link>https://jalict.com/projects/car-herder/</link>
       <pubDate>Sun, 05 Aug 2018 12:00:00 +0000</pubDate>
@@ -165,16 +154,6 @@ It uses an Arduino Nano, 3x4 keypad, 9V battery, two piezo speakers for tones, a
     </item>
     
     <item>
-      <title>BusDriver</title>
-      <link>https://jalict.com/projects/busdriver/</link>
-      <pubDate>Sun, 22 Oct 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://jalict.com/projects/busdriver/</guid>
-      <description>For the Game Prototyping course at ITU Games Technology we were given the task to create a game one button game. The requirements were
- Input with 1 button Max playtime, 5 minutes Combos allowed (Account repetition)  Our group went with a infinite runner like game. You drive a bus where you have to do different actions (Using a single button) on the thing you are about to encounter.</description>
-    </item>
-    
-    <item>
       <title>Minimum Wage</title>
       <link>https://jalict.com/projects/minimum-wage/</link>
       <pubDate>Sun, 08 Oct 2017 12:00:00 +0000</pubDate>
@@ -226,18 +205,6 @@ Game Objective The goal of the game is to kill one another, using rocket launche
       <guid>https://jalict.com/projects/tourist-herder/</guid>
       <description>You play as a Tourist guide who are to follow the tourists around town. Show them the big sights the town and make sure they don&amp;rsquo;t get caught up at some place or that they see something displeasing - They are a very tough crowd. But make sure that you get to the bus with as many passengers as possible.
 The game was made for Summer Game Jam 2017 (Local Game Jam which I host) with the theme &amp;lsquo;One City Block&amp;rsquo;</description>
-    </item>
-    
-    <item>
-      <title>Postbud</title>
-      <link>https://jalict.com/projects/postbud/</link>
-      <pubDate>Sat, 22 Apr 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://jalict.com/projects/postbud/</guid>
-      <description>POSTBUD is about bringing the mail to your friendly neighbourhood.
-The world is “infinity” as in you can proceed to the end of the world and come out of the start.
-I had the idea that you had specific mail to specific places in the world. And it was your job to find these places in time before they got angry.
-Due to me getting into an accident to only worked on it for like 7 hours and then about 2-3 hours with only one hand.</description>
     </item>
     
     <item>
@@ -354,17 +321,6 @@ The game is a Local Multiplayer, Fighting platformer. You only have one weapon w
     </item>
     
     <item>
-      <title>HRTF in darkness</title>
-      <link>https://jalict.com/projects/fourth-semester/</link>
-      <pubDate>Thu, 15 Jan 2015 12:00:00 +0000</pubDate>
-      
-      <guid>https://jalict.com/projects/fourth-semester/</guid>
-      <description>For my fouth semester at my bachelor program I had the chance of working on a Virtual Reality with focus on researching navigation using sound in limit visual environments.
-Most of my work was done in implementing and adapting Binaural sound systems. And working on recording real-time data of the test participants.
-The project was made togehter with Emil Holmen, Nicklas Bundgaard, Andreas Ryge, Hans Emil Hoppe Rauer, Rasmus Bons, Alex Rymark Vorm</description>
-    </item>
-    
-    <item>
       <title>3rd Semester Project</title>
       <link>https://jalict.com/projects/third-semester/</link>
       <pubDate>Mon, 03 Nov 2014 12:00:00 +0000</pubDate>
@@ -416,6 +372,15 @@ Made for Ludum Dare 26, Theme: Minimalistic (Potato).</description>
       <description>Rabbits steal a lumberjacks favourite axe and he goes on a manly rampage to get it back!
 The game is a platformer where you a Lumberjack whose Healtbhar have become his weapon. As you hit your enemy you loose health - So you have to strategic on your attacks.
 The game was made in Summer 2012 over 2 days for Game Development Camp.</description>
+    </item>
+    
+    <item>
+      <title>Frans Peter Larsen - About</title>
+      <link>https://jalict.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/about/</guid>
+      <description></description>
     </item>
     
   </channel>

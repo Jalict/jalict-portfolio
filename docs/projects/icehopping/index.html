@@ -28,10 +28,10 @@
 <meta property="og:title" content="Ice Hopping" />
 <meta property="og:description" content="Ice hopping is a vertical jumping game in which a single player controls a penguin and attempts to navigate across a sea of icebergs without falling off and becoming submerged in freezing water. Inspired by the game &ldquo;Island Hopping&rdquo;, the penguin constantly moves forward at a constant velocity, with the player limited to controlling the penguin by turning left or right and by jumping (as well as double jumping). All movement is controlled via the mouse." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://jalict.com/projects/icehopping/" />
-<meta property="og:image" content="https://jalict.com/profile.jpg"/>
-<meta property="article:published_time" content="2017-11-05T12:00:00+00:00" />
-<meta property="article:modified_time" content="2019-09-08T12:38:53+02:00" /><meta property="og:site_name" content="Frans Peter Larsen Portfolio" />
+<meta property="og:url" content="https://jalict.com/projects/icehopping/" /><meta property="og:image" content="https://jalict.com/profile.jpg"/><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2017-11-05T12:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2019-09-08T12:38:53&#43;02:00" /><meta property="og:site_name" content="Frans Peter Larsen Portfolio" />
+
 
 
 
@@ -101,7 +101,34 @@
 						
 						<h2 class="subtitle is-5 has-text-weight-semibold">Description</h2>
 						<div class="content">
-							<!-- raw HTML omitted -->
+							<p>Ice hopping is a vertical jumping game in which a single player controls a
+penguin and attempts to navigate across a sea of icebergs without falling off
+and becoming submerged in freezing water. Inspired by the game &ldquo;Island
+Hopping&rdquo;, the penguin constantly moves forward at a constant velocity, with
+the player limited to controlling the penguin by turning left or right and
+by jumping (as well as double jumping). All movement is controlled via the
+mouse.</p>
+<p>Levels are procedurally generated in chunks, with each chunk consisting of
+islands procedurally generated islands randomly chosen from a pool of five
+different models. Each island also has a randomized color assigned to it &ndash;
+either white, gray or black. Landing on a platform will mark that platformed
+as already landed on by changing its color to green. Furthermore, landing on
+multiple platforms in a row will increment a combo counter, which will
+increase the number of points the player gains when landing on the next
+island. This starts at 1 point, and is incremented by 1 for each combo.
+Breaking the combo will reset the number of points awarded to 1. Upon
+touching the water the player is returned to the main menu and the current
+high score is displayed. Being procedurally generated, The level continues
+indefinitely until the player dies.</p>
+<p>Thematically the level is set in an an arctic-like landscape, with the snow
+particle effects contributing to the setting. Also contributing are the
+penguin model, the water shader, the music (made by Alex Rymark Vorm), and the water
+shader sourced from the Suimono Unity plugin. Overall, these elements work
+together to produce a play experience which manages to be visually
+consistent and feature high amounts of replayability, especially given the
+limited scope of the game.</p>
+<p>The game was made together with August Almgren, <a href="http://sven.whalefall.nl/">Sven Santema</a>, <a href="https://soundcloud.com/alex-vorm">Alex Rymark Vorm</a></p>
+
 						</div>
 						
 						

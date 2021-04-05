@@ -7,6 +7,7 @@ Big Changes
 - Switch to proper templating
 - Update CV
 - Add bulletpoints instead of flavour text to favourites
+- Person reference system which uses JSON file for lookup
 
 Small Changes
 -------------
@@ -17,3 +18,4 @@ Small Changes
 - Reduce About me text
 - Only resize images, if their height/width is over 1920px
 - Add Kanetsu video to Down The Road => https://youtu.be/yaPVZ8nKB_Y?list=PL0o6MDZ2Vgw8pYhiDFR_PN90flOX6olaR
+- Change Mads Engberg website => http://madsengberg.com/

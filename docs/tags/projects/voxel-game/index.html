@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+<title>Voxel Game</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Frans Peter Larsen">
+<meta name="description" content="Frans Peter Larsen is a Unity and Unreal Engine, Game Developer based in Copenhagen.">
+<link rel="alternate" type="application/atom+xml" title="Frans Portfolio" href="/index.xml">
+
+
+
+<meta property="og:video" content="https://www.youtube.com/v/3t8JtOKxXeU">
+
+
+
+
+
+<meta property="og:image" content="https://jalict.com/projects/voxel-game/1.png" />
+
+<meta property="og:image" content="https://jalict.com/projects/voxel-game/2.png" />
+
+<meta property="og:image" content="https://jalict.com/projects/voxel-game/3.png" />
+
+<meta property="og:image" content="https://jalict.com/projects/voxel-game/4.png" />
+
+
+
+<meta property="og:title" content="Voxel Game" />
+<meta property="og:description" content="First Semester of Msc. Games Technology in Game Programming we were given final assignement to make a game using the Simple Render Engine (SRE). Our group deciced to create a basic Minecraft-clone, with the main interesting of working on a proper voxel data structure together with chunk manangement.
+The final result is a simple game with the same mechanics as Minecraft: You can mine blocks and place them. We added some extra small functions like flying and added a few details for particle systems together with textures but the big thing is that we achived a stable 60FPS gameplay with 262,144 voxels loaded." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jalict.com/projects/voxel-game/" /><meta property="og:image" content="https://jalict.com/profile.jpg"/><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2017-12-11T12:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2019-09-08T12:38:53&#43;02:00" /><meta property="og:site_name" content="Frans Peter Larsen Portfolio" />
+
+
+
+
+
+
+<link rel="stylesheet" href="https://jalict.com/sass/main.min.css">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet">
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+
+<script async defer data-domain="jalict.com" src="https://plausible.io/js/plausible.js"></script>
+
+	</head>
+
+	<body>
+		
+		<section class="section">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <a href="/">
+            <figure class="image is-square">
+              <img class="is-rounded" src="/profile.jpg">
+            </figure>
+          </a>
+        </div>
+        <div class="column">
+          <div class="content">
+            <p class="subtitle is-5">👋 Hi, my name is <strong>Frans</strong> Peter Larsen</p>
+            <p class="subtitle is-5">🕹️ I work with Videogames & Web </p>
+            <p class="subtitle is-5">💡 Got many skills across the board </p>
+            <p class="subtitle is-5">⌨️ My primary field is Programming</p>
+          </div>
+            <nav class="navbar buttons has-addons">
+              <a href="/" class="navbar-item button">
+                <span>🏠 Home</span>
+              </a>
+              <a href="/about/" class="navbar-item button">
+                <span>🕵️ About</span>
+              </a>
+              <a href="mailto:larsen.frans@gmail.com" class="navbar-item button">
+                <span>📧 Email</span>
+              </a>
+              <a href="/cv_franspeterlarsen.pdf" target="_blank" class="navbar-item button">
+                <span>🏛️ CV</span>
+              </a>
+            </nav>
+        </div>
+      </div>
+    </div>
+  </section>
+		
+		<section class="section">
+			<div class="container">
+				
+				<h1 class="title">Voxel Game</h1>
+				<p class="subtitle is-6 has-text-grey">
+					<span>🗓️ <time>December 11, 2017</time></span>
+				</p>
+				<div class="columns">
+					<div class="column is-three-fifths">
+						
+						<h2 class="subtitle is-5 has-text-weight-semibold">Description</h2>
+						<div class="content">
+							<p>First Semester of Msc. Games Technology in Game Programming we were given final assignement to make a game using the <a href="https://github.com/mortennobel/SimpleRenderEngineProject/">Simple Render Engine</a> (SRE).
+Our group deciced to create a basic Minecraft-clone, with the main interesting of working on a proper voxel data structure together with chunk manangement.</p>
+<p>The final result is a simple game with the same mechanics as Minecraft: You can mine blocks and place them. We added some extra small functions like flying and added a few details for particle systems together with textures but the big thing is that we achived a stable 60FPS gameplay with 262,144 voxels loaded.</p>
+<p>The primary big challanges was of course optimisation, mesh generation and getting the data structure right. But most of our lecturing had also been focused on 2D together with SRE being target towards 2D, so making a game in 3D graphics have of course added to the complexity. But also most of the engine supports <a href="box2d.org/">Box2D</a> for physics. In our cases we implemented <a href="http://bulletphysics.org/">Bullet Physics</a> which also added a layer of complexity due to none of us having experience with the tool and no lecture based on the library. The game can be found right below together with a technical report.</p>
+<p>The project was made together with <a href="http://www.itu.dk/people/engb/">Mads Engberg</a> and <a href="http://sven.whalefall.nl/">Sven Santema</a>.</p>
+
+						</div>
+						
+						
+						<h2 class="subtitle is-5 has-text-weight-semibold">Download</h2>
+						<nav class="navbar buttons has-addons">
+							
+							<a href="voxe-game_windows.zip" class="navbar-item button">
+			                  <span>Windows</span>
+			                </a>
+			                
+			                
+			                
+						</nav>
+						
+					</div>
+					<div class="column">
+						
+						<h2 class="subtitle is-5 has-text-weight-semibold">Media</h2>
+						<div class="container">
+							
+							<figure class="image is-16by9">
+								<iframe class="has-ratio" width="100%" height="auto" src="https://youtube.com/embed/3t8JtOKxXeU" allowfullscreen></iframe>
+							</figure>						
+							<br>
+							
+							<div class="columns is-multiline">
+								
+								
+								
+								<div class="column is-half">
+									<figure class="image">
+										<a href="https://jalict.com/projects/voxel-game/1.png" target="_blank">
+											<img src="https://jalict.com/projects/voxel-game/1_huc4dd187fce4e32edb1bed0a99ecde012_407728_256x0_resize_q60_catmullrom_2.png" >
+										</a>
+									</figure>
+								</div>	
+								
+								
+								<div class="column is-half">
+									<figure class="image">
+										<a href="https://jalict.com/projects/voxel-game/2.png" target="_blank">
+											<img src="https://jalict.com/projects/voxel-game/2_hu08b6d11e16fb7d3db520b0846dbd6bf6_411050_256x0_resize_q60_catmullrom_2.png" >
+										</a>
+									</figure>
+								</div>	
+								
+								
+								<div class="column is-half">
+									<figure class="image">
+										<a href="https://jalict.com/projects/voxel-game/3.png" target="_blank">
+											<img src="https://jalict.com/projects/voxel-game/3_hu2dbae5da9e396d8303bb2f09b9704774_505087_256x0_resize_q60_catmullrom_2.png" >
+										</a>
+									</figure>
+								</div>	
+								
+								
+								<div class="column is-half">
+									<figure class="image">
+										<a href="https://jalict.com/projects/voxel-game/4.png" target="_blank">
+											<img src="https://jalict.com/projects/voxel-game/4_hu260fe9193ab81c78fb9071e3ff813e8d_339622_256x0_resize_q60_catmullrom_2.png" >
+										</a>
+									</figure>
+								</div>	
+															
+							
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>	
+		</section>
+		
+		<footer class="footer has-background-white">
+	<div class="container">
+		<div class="content has-text-centered">
+			<p>2012-2021 © Frans Peter Larsen</p>
+		</div>
+	</div>
+</footer>
+	</body>
+</html>

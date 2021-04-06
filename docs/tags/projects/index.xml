@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Frans Peter Larsen</title>
+    <link>https://jalict.com/projects/</link>
+    <description>Recent content in Projects on Frans Peter Larsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jalict.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spline-based interface</title>
+      <link>https://jalict.com/projects/spline-based-interface/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/spline-based-interface/</guid>
+      <description>For my thesis on MSc. Games Technology I worked together with Sven Santema on implementing a spline-based interface for skin weight editing inside the Unity Engine.
+The goal of the project was to implement and test a state-of-the-art method developed by Bang and Lee[1] to identify user experience and usability within the implementation inside Unity. A prototype was implemented which works for real-time editing where users can create skinning from the ground up.</description>
+    </item>
+    
+    <item>
+      <title>A Fisherman&#39;s Tale</title>
+      <link>https://jalict.com/projects/a-fishermans-tale/</link>
+      <pubDate>Mon, 28 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/a-fishermans-tale/</guid>
+      <description>For Global Game Jam 2019 I worked on a fishing-ish game. Your objective is to capture fish and to retrive them to your home island.
+I worked mainly on some fishing triggers, effects and sound implementations.
+The general idea was that we wanted to explore some of the new Shader Graphs and Visual Effect tools.
+Game was made together with Andy Touch, Sven Santema, Rareş Popa and Nikolaj Licht. The game can also be found on Global Game Jam</description>
+    </item>
+    
+    <item>
+      <title>Car Herder</title>
+      <link>https://jalict.com/projects/car-herder/</link>
+      <pubDate>Sun, 05 Aug 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/car-herder/</guid>
+      <description>Car Herder is a Local Multiplayer game about herding a flock of cars towards you. The game was inspired and is a analogy of herding sheeps. But instead we tried make some other kind of objects more animated, in which we choosed police cars herding civilian cars on a parking lot.
+Initially we liked the idea of chasing a flock of boids. We implemented this fairly quickly and got a prototype up and running.</description>
+    </item>
+    
+    <item>
+      <title>Adj. Scrambler</title>
+      <link>https://jalict.com/projects/adj-scrambler/</link>
+      <pubDate>Sun, 10 Jun 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/adj-scrambler/</guid>
+      <description>For my third device in the shitty device series I have made a Adjective Randomizer. When the device is started the user is presented with a &amp;ldquo;Press button to search&amp;rdquo; on the display. When the user holds down the button it will then start &amp;ldquo;searching&amp;rdquo;, as you let go of the button a random adjective will be presented on the display. You can then proceed to do this to get more random adjectives.</description>
+    </item>
+    
+    <item>
+      <title>Down the Road</title>
+      <link>https://jalict.com/projects/down-the-road/</link>
+      <pubDate>Sun, 15 Apr 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/down-the-road/</guid>
+      <description>You find yourself in the middle of a forrest. It is night, you driving your car, going to the Local Radio Tower as you heard some weird broadcast messages lately. You only have the old map and the limited vision to guide you through the dark forrest. Hopefully the roads are safe tonight.
+This game was made in 48 hours for Nordic Game Jam 2018 together with Kasper Lichtenberg. For this project I worked primarily on Assets (2D, 3D and a bit Audio) and Level Design.</description>
+    </item>
+    
+    <item>
+      <title>HEXIL</title>
+      <link>https://jalict.com/projects/hexil/</link>
+      <pubDate>Sun, 11 Feb 2018 16:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/hexil/</guid>
+      <description>BIRTH. REPRODUCTION. DEATH. MUTATION
+HEXIL is game about reproduction your hexagon. The game is heavily inspired by Conyway&amp;rsquo;s Game of Life, but with added depth in form of solid and non-solid hexagons and mutations. Mutations will kill more and filled hexagons gives your a higher score.
+The game is made without a direct clear goal and exist more as an exploratory puzzle, but a score can give a sense of progression.</description>
+    </item>
+    
+    <item>
+      <title>CON.EST</title>
+      <link>https://jalict.com/projects/con-est/</link>
+      <pubDate>Sun, 28 Jan 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/con-est/</guid>
+      <description>Rovers from Russia and China are on a mission to getting Science signals from Earth.
+The Game is a Team-based Local Multiplayer, where the goal is to receive a pattern of 4 notes (Left and Right Motor) through Haptic Feedback in your controller in which you have to communicate to your partner who has to use Left and Right Shoulder to mimic the pattern. As you succeed to establish a connection and slowly earn points until you win, when you are linked you have to avoid crossing your link with an opponent or asteroids.</description>
+    </item>
+    
+    <item>
+      <title>Voxel Game</title>
+      <link>https://jalict.com/projects/voxel-game/</link>
+      <pubDate>Mon, 11 Dec 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/voxel-game/</guid>
+      <description>First Semester of Msc. Games Technology in Game Programming we were given final assignement to make a game using the Simple Render Engine (SRE). Our group deciced to create a basic Minecraft-clone, with the main interesting of working on a proper voxel data structure together with chunk manangement.
+The final result is a simple game with the same mechanics as Minecraft: You can mine blocks and place them. We added some extra small functions like flying and added a few details for particle systems together with textures but the big thing is that we achived a stable 60FPS gameplay with 262,144 voxels loaded.</description>
+    </item>
+    
+    <item>
+      <title>You Gotta Land Now</title>
+      <link>https://jalict.com/projects/you-gotta-land-now/</link>
+      <pubDate>Sun, 03 Dec 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/you-gotta-land-now/</guid>
+      <description>For Ludum Dare 40 I made a game about flying and landing planes.
+There are 5 airplanes in the game that needs to land before they run out of fuel.
+You have to land the planes on the runways, if they don&amp;rsquo;t land right they explode!
+There are islands, each with their own runway.
+You can switch between which airplane you are currently controlling using Q and E (Back and forth).</description>
+    </item>
+    
+    <item>
+      <title>Dial Toner</title>
+      <link>https://jalict.com/projects/dial-toner/</link>
+      <pubDate>Sat, 11 Nov 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/dial-toner/</guid>
+      <description>For my fourth device in the shitty device series I have made a Dialer. Using the keypad the user &amp;ldquo;call&amp;rdquo; any number which will output the common DTMF tones. You can choose to record a specific set of numbers and then play them back, creating a sort of a sequencer also.
+It uses an Arduino Nano, 3x4 keypad, 9V battery, two piezo speakers for tones, and a toggle switch to turn it on and off.</description>
+    </item>
+    
+    <item>
+      <title>Ice Hopping</title>
+      <link>https://jalict.com/projects/icehopping/</link>
+      <pubDate>Sun, 05 Nov 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/icehopping/</guid>
+      <description>Ice hopping is a vertical jumping game in which a single player controls a penguin and attempts to navigate across a sea of icebergs without falling off and becoming submerged in freezing water. Inspired by the game &amp;ldquo;Island Hopping&amp;rdquo;, the penguin constantly moves forward at a constant velocity, with the player limited to controlling the penguin by turning left or right and by jumping (as well as double jumping). All movement is controlled via the mouse.</description>
+    </item>
+    
+    <item>
+      <title>Minimum Wage</title>
+      <link>https://jalict.com/projects/minimum-wage/</link>
+      <pubDate>Sun, 08 Oct 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/minimum-wage/</guid>
+      <description>For the Game Prototyping course at ITU Games Technology we were given the task to create a game where we split up the different game loops. The requirements were
+ Single Player Competitive  You play as a newly hired employee in a Warehouse. Your job is to unload and sort the crates. So we had those two types of game loops being sorting and unloading. For unloading you have to get crates out of a truck, before the truck departures again.</description>
+    </item>
+    
+    <item>
+      <title>Clippy Wars</title>
+      <link>https://jalict.com/projects/clippy-wars/</link>
+      <pubDate>Sun, 01 Oct 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/clippy-wars/</guid>
+      <description>For the Game Prototyping course at ITU Games Technology we were given the task to create a game which invokes a certain emotion.
+We had several emotions to choose from, our game focuses on confusion and envy
+The requirements were
+ 2 players No playtime constraint Using a console controller No music (but yes to SFX)  The game is a platformer where you objective is to hold an object the longest.</description>
+    </item>
+    
+    <item>
+      <title>Two Player Blockbreaker</title>
+      <link>https://jalict.com/projects/blockbreaker/</link>
+      <pubDate>Sun, 24 Sep 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/blockbreaker/</guid>
+      <description>For the Game Prototyping course at ITU Games Technology we were given the task to Modify an already existing game.
+Our game took the classical Arkanoid game and added an extra player to the game, becoming Two Player Blockbreaker. We tried different iteration and prototyped with features such as two balls, one for each player. And ended with just a single ball where the player gains point depending on who were the last to hit there ball.</description>
+    </item>
+    
+    <item>
+      <title>Mazeling</title>
+      <link>https://jalict.com/projects/mazeling/</link>
+      <pubDate>Sun, 10 Sep 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/mazeling/</guid>
+      <description>For the Game Prototyping course at ITU Games Technology we were given the task to design a Spectable game.
+The requirements were
+ Design a Spectable game Must have a digital component Either infinite play, or rounds &amp;lt;2 min. 2 players  Mazeling is a spectatable shooter game, in which two players compete in a randomly generated maze.
+Game Objective The goal of the game is to kill one another, using rocket launchers (bazooka like).</description>
+    </item>
+    
+    <item>
+      <title>Tourist Herder</title>
+      <link>https://jalict.com/projects/tourist-herder/</link>
+      <pubDate>Sun, 20 Aug 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/tourist-herder/</guid>
+      <description>You play as a Tourist guide who are to follow the tourists around town. Show them the big sights the town and make sure they don&amp;rsquo;t get caught up at some place or that they see something displeasing - They are a very tough crowd. But make sure that you get to the bus with as many passengers as possible.
+The game was made for Summer Game Jam 2017 (Local Game Jam which I host) with the theme &amp;lsquo;One City Block&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>Bit Tunes</title>
+      <link>https://jalict.com/projects/bit-tunes/</link>
+      <pubDate>Mon, 27 Mar 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/bit-tunes/</guid>
+      <description>As part of a gift series I have started for my friends, I came up with a Bit Tunes generator for my second device.
+The device is using an Arduino, two potentiometers for input and a piezo speaker for output. The user can turn on the device, in which is starts playing random notes, you can then modulate them using the dials creating new sounds. I wanted to emulate something old and recognisable for the sound, so it is like old bit tunes.</description>
+    </item>
+    
+    <item>
+      <title>Stick Together</title>
+      <link>https://jalict.com/projects/stick-together/</link>
+      <pubDate>Mon, 12 Dec 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/stick-together/</guid>
+      <description>For Ludum Dare 37, Theme: One Room. I made a game in Unity where you have to pick up sticks and put them in a pile. The idea was that the players only run around in a single instance, one room. I nearly got the primary mechanic done on first day. And my intention was to work on Multiplayer on second day.</description>
+    </item>
+    
+    <item>
+      <title>Floats N&#39; Boats</title>
+      <link>https://jalict.com/projects/floats-n-boats/</link>
+      <pubDate>Sun, 24 Jul 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/floats-n-boats/</guid>
+      <description>Floats n&#39; Boats is a party game, where 2 teams have to compete against each other. Both teams consists of 2 players; one controlling a boat and another controlling a harpoon. The player controlling the boat moves the team around, while the player with the harpoon has to cut the other teams rope. If a teams rope is cut they have to merge again, as the other team will win if they shoot or run over the harpoon player.</description>
+    </item>
+    
+    <item>
+      <title>Kontiki</title>
+      <link>https://jalict.com/projects/kontiki/</link>
+      <pubDate>Tue, 14 Jun 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/kontiki/</guid>
+      <description>My bachelor project at Aalborg University was an investigation of character behaviour and engangement. We looking into the how players were affected when NPC&amp;rsquo;s have behaviour change in their own emergence. We implemented a whole visual communication system and created a smaller community using Utillity based AI. The NPC&amp;rsquo;s had jobs and different needs and desires and in the test scenario the player could not just interrupt if the NPC were doing something specific at the time.</description>
+    </item>
+    
+    <item>
+      <title>Wacky Water Wheels</title>
+      <link>https://jalict.com/projects/wacky-water-wheels/</link>
+      <pubDate>Sun, 10 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/wacky-water-wheels/</guid>
+      <description>A water truck has taken a wrong turn as he finds himself in a test city for nuclear bombs where billboards are the only company you will find. Determined and ignorant he continues his job to deliver the water to the fake cities water towers.
+Made for Nordic Game Jam 2016 - Theme: Leak
+The game was made together with Alex Rymark Vorm, Nicklas Bundgaard, Jacob Godt, Andreas Ryge, Hans Emil Hoppe Rauer</description>
+    </item>
+    
+    <item>
+      <title>In Its Flesh</title>
+      <link>https://jalict.com/projects/in-its-flesh/</link>
+      <pubDate>Sun, 31 Jan 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/in-its-flesh/</guid>
+      <description>You are playing as an occultist of an Elder God. In order to perform the ascension ritual, you have to please your god, by slaying prisoners in the castle or even better: Your fellow occultists. Murder in its name, bring the blood to the Altar, and show the world the true power Njafkrim! The game can be played of up to four players locally and requires Xbox Controllers.
+Made for Global Game Jam 2016 - Theme Ritual</description>
+    </item>
+    
+    <item>
+      <title>Infra</title>
+      <link>https://jalict.com/projects/infra/</link>
+      <pubDate>Sat, 12 Dec 2015 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/infra/</guid>
+      <description>As part of the Aalborg University, Medialogy “Purposive Game Production” (PGP) on 5th Semester, I worked on a virtual reality multiplayer puzzle game. The game allowed three people to work together to solve tasks in an ancient cave in virtual reality by cooperating with each other.
+On this project I worked as a Senior Programmer, where I helped with project structure and implementing features for level designers. The game used a rail system which I made together with building tools for designers.</description>
+    </item>
+    
+    <item>
+      <title>Table Smash</title>
+      <link>https://jalict.com/projects/table-smash/</link>
+      <pubDate>Sun, 24 May 2015 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/table-smash/</guid>
+      <description>A game where you are supposed smack little dude on your table.You should be placed in front of the table at the curved middle in the table.
+Using Oculus Rift and Leap Motion you can control your hands in the game and try to best to hit the little dudes.
+Made for Shayla Games 2015.
+The game was made together with Emil Holmen and Andreas Ryge</description>
+    </item>
+    
+    <item>
+      <title>Find Your Wings</title>
+      <link>https://jalict.com/projects/find-your-wings/</link>
+      <pubDate>Sun, 10 May 2015 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/find-your-wings/</guid>
+      <description>You have to leave the nest and learn how to fly. You can control individual wing and try your best to fly!
+Made for Mini Game Jam - Theme: Freedom
+Won Secret Microsoft Price</description>
+    </item>
+    
+    <item>
+      <title>Cutato 3D</title>
+      <link>https://jalict.com/projects/cutato3d/</link>
+      <pubDate>Sun, 05 Apr 2015 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/cutato3d/</guid>
+      <description>Is a spiritual successor to my first Ludum Dare game, Cutato. The game revolves around peeling potatoes in a rather chaotic setting.
+Made for Game Jam 2 by AAU Game Lab - Theme: Fix Your Old Project
+Game won the first price
+The game was made together with Alex Rymark Vorm,</description>
+    </item>
+    
+    <item>
+      <title>Ob-Vi-Ous-Ly</title>
+      <link>https://jalict.com/projects/ob-vi-ous-ly/</link>
+      <pubDate>Sun, 08 Feb 2015 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/ob-vi-ous-ly/</guid>
+      <description>Aliens have come to earth- but got in a fight with themselves! Unfortunately their Zappers only work with forces, so they have to shoot objects at each other in order to fight.
+The game is a Local Multiplayer, Fighting platformer. You only have one weapon which bullets makes both objects and players bounce around - You defeat your enemies by hitting them with other objects and making them fly out of the map.</description>
+    </item>
+    
+    <item>
+      <title>3rd Semester Project</title>
+      <link>https://jalict.com/projects/third-semester/</link>
+      <pubDate>Mon, 03 Nov 2014 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/third-semester/</guid>
+      <description>For my 3rd semester at my bachelor I worked on a Tool made in Unity which could interpret hand-drawn paper topography. Using a USB HD Webcam we were able to crop, cut and do image processing in real-time which were translated into a terrain in Unity. After the terrain stage you were able to draw symbols in order to create Towns and Forests in the world.
+The motivation was to have easier methods for creating game worlds for artists with much faster prototyping methods which could be further development using ordinary unity tools.</description>
+    </item>
+    
+    <item>
+      <title>Knights</title>
+      <link>https://jalict.com/projects/knights/</link>
+      <pubDate>Mon, 06 Oct 2014 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/knights/</guid>
+      <description>You’re knights who fight at the bottom of a volcano. Now the time is running out and the vulcano is collapsing and the platforms moving around. Quickly kill your opponents while avoiding the magma!
+Made for Mini Jam 5 by Unge Spiludviklere, Theme: Procedural Generated.
+Controls are the following:
+ Left Analog Stick – Movement Button A – Attacking / Join Game Button B – Blocking Button X – Jumping Start – Start Game  The game was made together with Rasmus Dyhr</description>
+    </item>
+    
+    <item>
+      <title>Sneaky Bastards</title>
+      <link>https://jalict.com/projects/sneaky-bastards/</link>
+      <pubDate>Sun, 16 Feb 2014 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/sneaky-bastards/</guid>
+      <description>Top-down network game where two people play as thieves (on computer 1) and two other people play as guards (on computer 2). The thieves’ goal is to steal as much as possible and not getting caught by the guards.
+Made for Nordic Game Jam 2014 - Theme: Stealth
+The game was made together with Rasmus Dyhr, Mathias Berthelsen and Gustav Dahl</description>
+    </item>
+    
+    <item>
+      <title>Cutato</title>
+      <link>https://jalict.com/projects/cutato/</link>
+      <pubDate>Mon, 29 Apr 2013 12:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/cutato/</guid>
+      <description>You’re working at Cutato Factory. Your Job is to peel all the incoming potatoes. As time goes, conveyor will go faster! Try to peel as much from the potatoes as possible for best score.
+Made for Ludum Dare 26, Theme: Minimalistic (Potato).</description>
+    </item>
+    
+    <item>
+      <title>Deathbar</title>
+      <link>https://jalict.com/projects/deathbar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jalict.com/projects/deathbar/</guid>
+      <description>Rabbits steal a lumberjacks favourite axe and he goes on a manly rampage to get it back!
+The game is a platformer where you a Lumberjack whose Healtbhar have become his weapon. As you hit your enemy you loose health - So you have to strategic on your attacks.
+The game was made in Summer 2012 over 2 days for Game Development Camp.</description>
+    </item>
+    
+  </channel>
+</rss>

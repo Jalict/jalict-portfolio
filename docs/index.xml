@@ -38,7 +38,7 @@ Game was made together with Andy Touch, Sven Santema, Rareş Popa and Nikolaj Li
       <description>From August to November in 2018 I had the pleasure of doing an Internship at Invisible Walls, where I got to work on First Class Trouble.
 I worked as Gameplay Programmer in Unreal Engine and got to implement core systems, mechanics and user interfaces. All the features were also developed for online multiplayer by me.
 Most of my work involved:
- Zone-based Oxygen System Multi-purpose Door System Collectable Passenger Logs Implementation of new User Interface  All my work was done i close collaboration with the team, I had a lot of freedom to come up with my own ideas and prototype them for the team.</description>
+Zone-based Oxygen System Multi-purpose Door System Collectable Passenger Logs Implementation of new User Interface All my work was done i close collaboration with the team, I had a lot of freedom to come up with my own ideas and prototype them for the team.</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ Most of my work involved:
       
       <guid>https://jalict.com/favourites/pizza-panic/</guid>
       <description>For our 8th Prototype for our Game Prototype course at ITU Games Technology we were given the assignemnt of creating a Local Multiplayer game with some type of Exchanging. Exact requirements:
- Digital or analog It has to have an economy (resources exchanged among players) Gameplay condition: the game has one loser  The game is about getting pizzas delivered before you run out of fuel. As you deliver pizza&amp;rsquo;s you get some of your fuel back.</description>
+Digital or analog It has to have an economy (resources exchanged among players) Gameplay condition: the game has one loser The game is about getting pizzas delivered before you run out of fuel. As you deliver pizza&amp;rsquo;s you get some of your fuel back.</description>
     </item>
     
     <item>
@@ -160,7 +160,7 @@ It uses an Arduino Nano, 3x4 keypad, 9V battery, two piezo speakers for tones, a
       
       <guid>https://jalict.com/projects/minimum-wage/</guid>
       <description>For the Game Prototyping course at ITU Games Technology we were given the task to create a game where we split up the different game loops. The requirements were
- Single Player Competitive  You play as a newly hired employee in a Warehouse. Your job is to unload and sort the crates. So we had those two types of game loops being sorting and unloading. For unloading you have to get crates out of a truck, before the truck departures again.</description>
+Single Player Competitive You play as a newly hired employee in a Warehouse. Your job is to unload and sort the crates. So we had those two types of game loops being sorting and unloading. For unloading you have to get crates out of a truck, before the truck departures again.</description>
     </item>
     
     <item>
@@ -172,7 +172,7 @@ It uses an Arduino Nano, 3x4 keypad, 9V battery, two piezo speakers for tones, a
       <description>For the Game Prototyping course at ITU Games Technology we were given the task to create a game which invokes a certain emotion.
 We had several emotions to choose from, our game focuses on confusion and envy
 The requirements were
- 2 players No playtime constraint Using a console controller No music (but yes to SFX)  The game is a platformer where you objective is to hold an object the longest.</description>
+2 players No playtime constraint Using a console controller No music (but yes to SFX) The game is a platformer where you objective is to hold an object the longest. The catch is both players have 5 players they control simultaneously and you have to find out which one of them you are.</description>
     </item>
     
     <item>
@@ -193,7 +193,7 @@ Our game took the classical Arkanoid game and added an extra player to the game,
       <guid>https://jalict.com/projects/mazeling/</guid>
       <description>For the Game Prototyping course at ITU Games Technology we were given the task to design a Spectable game.
 The requirements were
- Design a Spectable game Must have a digital component Either infinite play, or rounds &amp;lt;2 min. 2 players  Mazeling is a spectatable shooter game, in which two players compete in a randomly generated maze.
+Design a Spectable game Must have a digital component Either infinite play, or rounds &amp;lt;2 min. 2 players Mazeling is a spectatable shooter game, in which two players compete in a randomly generated maze.
 Game Objective The goal of the game is to kill one another, using rocket launchers (bazooka like).</description>
     </item>
     
@@ -232,7 +232,7 @@ The device is using an Arduino, two potentiometers for input and a piezo speaker
       <pubDate>Sun, 24 Jul 2016 12:00:00 +0000</pubDate>
       
       <guid>https://jalict.com/projects/floats-n-boats/</guid>
-      <description>Floats n&#39; Boats is a party game, where 2 teams have to compete against each other. Both teams consists of 2 players; one controlling a boat and another controlling a harpoon. The player controlling the boat moves the team around, while the player with the harpoon has to cut the other teams rope. If a teams rope is cut they have to merge again, as the other team will win if they shoot or run over the harpoon player.</description>
+      <description>Floats n&amp;rsquo; Boats is a party game, where 2 teams have to compete against each other. Both teams consists of 2 players; one controlling a boat and another controlling a harpoon. The player controlling the boat moves the team around, while the player with the harpoon has to cut the other teams rope. If a teams rope is cut they have to merge again, as the other team will win if they shoot or run over the harpoon player.</description>
     </item>
     
     <item>
@@ -339,7 +339,7 @@ The motivation was to have easier methods for creating game worlds for artists w
       <description>You’re knights who fight at the bottom of a volcano. Now the time is running out and the vulcano is collapsing and the platforms moving around. Quickly kill your opponents while avoiding the magma!
 Made for Mini Jam 5 by Unge Spiludviklere, Theme: Procedural Generated.
 Controls are the following:
- Left Analog Stick – Movement Button A – Attacking / Join Game Button B – Blocking Button X – Jumping Start – Start Game  The game was made together with Rasmus Dyhr</description>
+Left Analog Stick – Movement Button A – Attacking / Join Game Button B – Blocking Button X – Jumping Start – Start Game The game was made together with Rasmus Dyhr</description>
     </item>
     
     <item>
